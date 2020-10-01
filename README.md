@@ -1,5 +1,5 @@
 # Reverse-String
-First open the command window and type "str= 'correctHorseBatteryStaple'
+First open the command window and type "str= 'correct Horse Battery Staple'
 Second type "reverse= hw002(str)"
 # Q1
 An algorithm is defined as a methodoligical and logical procedure that gurantees solving a particular problem. A heuristic in programming is defined as a technique designed to solve a problem more efficiently. To solve a rubiks cube an algorithm is needed to solve it. A heuristic example could be someones ability to make an educated guess as it is an efficient way to come to a solution but not always completely accurate.
